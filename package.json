@@ -1,0 +1,29 @@
+{
+  "name": "apns-fcm",
+  "version": "1.0.0",
+  "description": "This package helps you to send notification very easy. You can send APNS notification and FCM notification as well.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apn": "^2.2.0",
+    "express": "^4.16.1",
+    "joi": "^14.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishai12345/apns-fcm.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "APNS",
+    "FCM"
+  ],
+  "author": "vishal chaturvedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishai12345/apns-fcm/issues"
+  },
+  "homepage": "https://github.com/vishai12345/apns-fcm#readme"
+}
